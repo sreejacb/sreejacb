@@ -25,7 +25,7 @@ I'm excited to connect with fellow coders, learners, and enthusiasts. If you hav
 
 ## Let's Learn and Grow Together
 
-Learning is a never-ending journey, and I'm delighted to have you join me on this path.<br>Whether you're a seasoned developer or just starting, let's share our experiences, learn from each other, and together, let's create some amazing code!
+Learning is a never-ending journey, and I'm delighted to have you join me on this path.<br>Whether you're a seasoned developer or just starting, let's share our experiences, learn from each other, and together, let's create some amazing code! 
 
 Thank you for stopping by, and I look forward to our coding adventures ahead!
 
