@@ -6,7 +6,7 @@ I'm Sreeja C B, thrilled to welcome you to my GitHub repository. This repository
 I'm a curious learner who believes in the power of coding to transform ideas into reality. With a passion for problem-solving and a penchant for clean and efficient code, I'm excited to share my progress, projects, and insights with the GitHub community.
 
 - **Name:** Sreeja C B
-- **Location:** Kerala, India
+- **Education:** MSc. Compter Science 
 - **Current Focus:** Python Programming
 
 ## What to Expect
