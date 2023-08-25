@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am Sreeja C B, currently learning and exploring the coding world. 
 <!--
 **sreejacb/sreejacb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
