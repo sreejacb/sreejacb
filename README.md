@@ -1,15 +1,15 @@
-### Hi there 👋
+## Hi there 👋
 
 I'm Sreeja C B, thrilled to welcome you to my GitHub repository. This repository is a reflection of my journey as I dive into the fascinating world of coding and development. While I'm enthusiastic about exploring various aspects of programming, my main focus is on Python.
 
-### About Me
+## About Me
 I'm a curious learner who believes in the power of coding to transform ideas into reality. With a passion for problem-solving and a penchant for clean and efficient code, I'm excited to share my progress, projects, and insights with the GitHub community.
 
 - **Name:** Sreeja C B
 - **Location:** Kerala, India
 - **Current Focus:** Python Programming
 
-  ## What to Expect
+## What to Expect
 
 In this repository, you can expect to find a variety of materials:
 
