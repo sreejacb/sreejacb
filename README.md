@@ -10,6 +10,7 @@ I'm a curious learner who believes in the power of coding to transform ideas int
 - **Education:** MSc. Compter Science 
 - **Current Focus:** Python Programming
 
-![Sreeja C B (1)](https://github.com/sreejacb/sreejacb/assets/101924446/bec3ea18-0281-4690-807d-34890f99d2f0)
+![Sreeja C B (2)](https://github.com/sreejacb/sreejacb/assets/101924446/50ce9c93-1b6c-4e00-a6b6-283a9f5c2f73)
 
 [![](https://visitcount.itsvg.in/api?id=sreejacb&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
