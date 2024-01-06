@@ -1,7 +1,6 @@
 
+![Sreeja C B (4)](https://github.com/sreejacb/sreejacb/assets/101924446/b7297cf8-35bc-4eac-b47b-9100fff3a26b)
 
-![Sreeja C B (3)](https://github.com/sreejacb/sreejacb/assets/101924446/bfde4c6f-7a16-4ccc-8b4d-a56eb938537c)
-![Sreeja C B (2)](https://github.com/sreejacb/sreejacb/assets/101924446/50ce9c93-1b6c-4e00-a6b6-283a9f5c2f73)
 ## Hi there 👋
 
 I'm Sreeja C B, thrilled to welcome you to my GitHub repository. This repository is a reflection of my journey as I dive into the fascinating world of coding and development. While I'm enthusiastic about exploring various aspects of programming, my main focus is on Python.
