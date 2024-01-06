@@ -1,5 +1,6 @@
 
-![Sreeja C B (1)](https://github.com/sreejacb/sreejacb/assets/101924446/dd95fdd3-a058-473a-884c-b804bed9eebf)
+
+![Sreeja C B](https://github.com/sreejacb/sreejacb/assets/101924446/31b22d26-6005-48ca-a75b-5e90075788bb)
 
 ## Hi there 👋
 
