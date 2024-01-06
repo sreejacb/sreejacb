@@ -1,6 +1,7 @@
 
+![Uploading Sreeja C B (1).gif…]()
 
-![Sreeja C B](https://github.com/sreejacb/sreejacb/assets/101924446/31b22d26-6005-48ca-a75b-5e90075788bb)
+
 
 ## Hi there 👋
 
