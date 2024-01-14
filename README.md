@@ -16,8 +16,8 @@ I'm a curious learner who believes in the power of coding to transform ideas int
 <div align="center" >
 <a  href="https://github.com/mkswagger">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sreejacb&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="34.5%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sreejacb&theme=dark"  width="31%">
+<img src="https://github-readme-stats.vercel.app/api?username=sreejacb&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="37.5%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sreejacb&theme=dark"  width="34%">
 </a>
 
 
