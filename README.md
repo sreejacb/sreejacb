@@ -12,6 +12,9 @@ I'm a curious learner who believes in the power of coding to transform ideas int
 - **Education:** MSc. Compter Science 
 - **Current Focus:** Python Programming
 
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sreejacb&show_icons=true&count_private=true&hide=contribs)](https://github.com/sreejacb)
+
+
 
 
 [![](https://visitcount.itsvg.in/api?id=sreejacb&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
